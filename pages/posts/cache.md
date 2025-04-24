@@ -2,11 +2,8 @@
 title: 浏览器缓存
 toc: true
 comments: false
-categories: 
-    - 浏览器 
-    - 缓存 
+tag: 浏览器,缓存 
 date: 2020-05-28 17:17:08
-tags:
 keywords: 浏览器缓存
 description:
 ---

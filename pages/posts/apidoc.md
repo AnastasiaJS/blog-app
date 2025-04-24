@@ -4,10 +4,7 @@ toc: true
 comments: false
 categories: RESTful
 date: 2019-04-24 13:18:07
-tags:
-keywords: 
-    - RESTful
-    - ApiDoc
+tag: RESTful,ApiDoc
 description: 自动生成接口文档
 ---
 [【ApiDoc】官方文档(翻译)](https://www.jianshu.com/p/9353d5cc1ef8)

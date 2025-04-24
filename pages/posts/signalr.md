@@ -2,11 +2,8 @@
 title: signalr实时推送--javascript客户端
 toc: true
 comments: false
-categories: 
-- javascript
-- signalR
+tag: javascript,signalR
 date: 2019-05-04 15:28:52
-tags: signalR
 keywords: signalR
 description: signalR
 ---

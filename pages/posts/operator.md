@@ -4,9 +4,7 @@ toc: true
 comments: false
 date: 2018-09-06 15:24:33
 categories: javascript
-tags: 
-    - JavaScript 
-    - 操作符
+tag: JavaScript,操作符
 ---
 记录JS操作符一些重要并容易被忽略的一些用法
 <!-- more -->

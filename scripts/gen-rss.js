@@ -21,6 +21,7 @@ async function generate() {
       );
       const frontmatter = matter(content);
 
+      // console.log('-----',frontmatter.data.tag)
       feed.item({
         title: frontmatter.data.title,
         url: "/posts/" + name.replace(/\.mdx?/, ""),

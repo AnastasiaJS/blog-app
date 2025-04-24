@@ -4,10 +4,7 @@ toc: true
 comments: true
 date: 2018-09-07 09:42:38
 categories: javascript
-tags: 
-    - PDF.js 
-    - JavaScript 
-    - PDF解析器
+tag: PDF.js,JavaScript,PDF解析器
 ---
 ## PDF.js介绍
 

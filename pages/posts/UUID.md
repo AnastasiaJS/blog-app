@@ -4,8 +4,7 @@ toc: true
 comments: false
 categories: javascript
 date: 2018-09-14 14:32:32
-tags:
-    - UUID
+tag: UUID
 ---
 
 ## 什么是UUID

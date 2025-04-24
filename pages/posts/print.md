@@ -4,10 +4,7 @@ toc: true
 comments: false
 categories: javascript
 date: 2019-02-28 16:55:39
-tags: 
-    - 直接打印
-    - 谷歌
-    - --kiosk-printing
+tag: 直接打印,谷歌,--kiosk-printing
 ---
 
 1. 创建快捷方式;

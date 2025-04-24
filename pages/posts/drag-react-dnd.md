@@ -2,12 +2,8 @@
 title: 拖拽组件：react-dnd
 toc: true
 comments: false
-categories: javascript
 date: 2018-12-19 16:25:47
-tags:
-    - react
-    - react-dnd
-    - 拖拽
+tag: react,react-dnd,拖拽
 ---
  > 从昨天下午在弄一个关于拖拽的问题，实在有点心烦，先暂停下来，认真梳理一下关于这个组件的知识。
 

@@ -4,9 +4,7 @@ toc: true
 comments: false
 categories: javascript
 date: 2019-12-24 14:21:05
-tags: 
-    - JS 
-    - Promise 
+tag: JS,Promise 
 keywords: Promise
 description: Promise
 ---

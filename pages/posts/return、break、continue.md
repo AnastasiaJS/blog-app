@@ -4,10 +4,7 @@ toc: true
 comments: false
 categories: javascript
 date: 2018-09-07 13:49:28
-tags: 
-    - return
-    - break
-    - continue
+tag: return,break,continue
 ---
 
 **break是跳出一层循环，continue是结束一趟循环 ,return才是结束所有层循环!**

@@ -4,12 +4,7 @@ toc: true
 comments: true
 categories: javascript
 date: 2018-12-21 10:31:20
-tags:
-    - react
-    - react-dnd
-    - ant-design
-    - table
-    - 拖拽
+tag: react-dnd,ant-design,table,拖拽
 ---
 
  [ant-design官网表格排序例子(https://ant.design/components/table-cn/#components-table-demo-drag-sorting)

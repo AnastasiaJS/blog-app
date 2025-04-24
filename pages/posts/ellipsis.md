@@ -2,7 +2,7 @@
 title: 文本溢出处理
 toc: true
 comments: true
-categories: css
+tag: css
 date: 2018-12-27 13:09:20
 description: 多行文本溢出，显示省略号
 ---
