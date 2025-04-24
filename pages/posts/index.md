@@ -1,7 +1,7 @@
 ---
 type: posts
-title: Posts
-date: 2021-03-18
+title: 文章
+date: 2025-03-18
 ---
 
-# Posts
+## Posts
