@@ -20,12 +20,14 @@ async function generate () {
         path.join(__dirname, "..", "pages", "posts", name),
       );
       const frontmatter = matter(content);
-
+      const date = frontmatter.data.date
+        ? new Date(frontmatter.data.date)
+        : new Date();
       // console.log('-----',frontmatter.data.tag)
       feed.item({
         title: frontmatter.data.title,
         url: "/posts/" + name.replace(/\.mdx?/, ""),
-        date: frontmatter.data.date,
+        date: date.getFullYear() + "-" + (date.getMonth() + 1) + "-" + date.getDate(),
         description: frontmatter.data.description,
         categories: frontmatter.data.tag.split(", "),
         author: frontmatter.data.author,
