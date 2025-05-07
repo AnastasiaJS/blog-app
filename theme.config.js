@@ -17,4 +17,7 @@ export default {
       `}</style>
     </footer>
   ),
+  readMore: '更多 →',
+  postFooter: null,
+  darkMode: true,
 };

@@ -1,12 +1,60 @@
 ---
 title: Markdown Examples
-date: 2021/3/19
+date: 2025/5/6
 description: View examples of all possible Markdown options.
 tag: web development
-author: You
+author: Anastasia
 ---
 
-# Markdown Examples
+## Markdown Examples
+
+## mermaid图表
+
+ ```mermaid
+graph TD;
+subgraph AA [Consumers]
+A[Mobile app];
+B[Web app];
+C[Node.js client];
+end
+subgraph BB [Services]
+E[REST API];
+F[GraphQL API];
+G[SOAP API];
+end
+Z[GraphQL API];
+A --> Z;
+B --> Z;
+C --> Z;
+Z --> E;
+Z --> F;
+Z --> G;
+```
+
+ ```js
+graph TD;
+subgraph AA [Consumers]
+A[Mobile app];
+B[Web app];
+C[Node.js client];
+end
+subgraph BB [Services]
+E[REST API];
+F[GraphQL API];
+G[SOAP API];
+end
+Z[GraphQL API];
+A --> Z;
+B --> Z;
+C --> Z;
+Z --> E;
+Z --> F;
+Z --> G;
+```
+
+## LaTeX example
+
+The **毕达哥拉斯方程Pythagorean equation**: $a=\sqrt{b^2 + c^2}$.
 
 ## h2 Heading
 
@@ -48,7 +96,7 @@ Ordered
 
 Inline `code`
 
-```
+```js
 export default function Nextra({ Component, pageProps }) {
   return (
     <>

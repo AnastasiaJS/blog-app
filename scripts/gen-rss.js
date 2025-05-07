@@ -3,9 +3,9 @@ const path = require("path");
 const RSS = require("rss");
 const matter = require("gray-matter");
 
-async function generate() {
+async function generate () {
   const feed = new RSS({
-    title: "Your Name",
+    title: "Anastasia",
     site_url: "https://yoursite.com",
     feed_url: "https://yoursite.com/feed.xml",
   });
